@@ -12,10 +12,11 @@ import kotlinx.android.synthetic.main.activity_title.*
 import sample.kingja.loadsir.R
 
 /**
- * Description：TODO
- * Create Time：2017/3/20 14:17
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 abstract class BaseTitleActivity : AppCompatActivity() {
     private lateinit var rootView : View

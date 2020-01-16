@@ -6,10 +6,11 @@ import com.squareup.leakcanary.LeakCanary
 import sample.kingja.loadsir.callback.*
 
 /**
- * Description:TODO
- * Create Time:2017/9/3 14:02
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 class App : Application() {
     override fun onCreate() {

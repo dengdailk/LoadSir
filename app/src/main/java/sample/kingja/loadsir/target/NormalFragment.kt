@@ -13,10 +13,11 @@ import sample.kingja.loadsir.callback.CustomCallback
 import sample.kingja.loadsir.callback.LoadingCallback
 
 /**
- * Description:TODO
- * Create Time:2017/9/5 13:28
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 class NormalFragment : Fragment() {
     private lateinit var loadService: LoadService<*>

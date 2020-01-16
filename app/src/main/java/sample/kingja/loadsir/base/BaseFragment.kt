@@ -9,10 +9,11 @@ import com.kingja.loadsir.core.LoadService
 import com.kingja.loadsir.core.LoadSir
 
 /**
- * Description:TODO
- * Create Time:2017/9/6 14:34
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 abstract class BaseFragment : Fragment() {
     protected lateinit var mBaseLoadService: LoadService<*>

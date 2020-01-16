@@ -10,10 +10,11 @@ import com.kingja.loadsir.callback.Callback
 import sample.kingja.loadsir.R
 
 /**
- * Description:TODO
- * Create Time:2017/9/3 10:22
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 class AnimateCallback : Callback() {
     private lateinit var context: Context

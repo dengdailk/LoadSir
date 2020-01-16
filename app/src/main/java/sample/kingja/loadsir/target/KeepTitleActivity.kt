@@ -11,10 +11,11 @@ import sample.kingja.loadsir.callback.ErrorCallback
 import sample.kingja.loadsir.callback.LoadingCallback
 
 /**
- * Description:
- * Create Time:2017/9/4 10:56
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 open class KeepTitleActivity : BaseTitleActivity() {
 

@@ -8,10 +8,11 @@ import kotlinx.android.synthetic.main.activity_main.*
 import sample.kingja.loadsir.target.*
 
 /**
- * Description:TODO
- * Create Time:2017/9/2 16:02
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

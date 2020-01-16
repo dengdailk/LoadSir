@@ -6,10 +6,11 @@ import com.kingja.loadsir.callback.Callback
 import com.kingja.loadsir.core.LoadService
 
 /**
- * Description:TODO
- * Create Time:2017/9/4 15:21
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 object PostUtil {
     private const val DELAY_TIME = 1000

@@ -13,10 +13,11 @@ import sample.kingja.loadsir.PostUtil.postSuccessDelayed
 import sample.kingja.loadsir.R
 
 /**
- * Description:TODO
- * Create Time:2017/9/4 10:12
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 class DefaultCallbackActivity : AppCompatActivity() {
     private lateinit var loadService: LoadService<*>

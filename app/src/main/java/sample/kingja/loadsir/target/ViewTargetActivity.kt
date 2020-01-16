@@ -14,10 +14,11 @@ import sample.kingja.loadsir.callback.LoadingCallback
 import sample.kingja.loadsir.callback.TimeoutCallback
 
 /**
- * Description:TODO
- * Create Time:2017/9/3 11:22
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 class ViewTargetActivity : AppCompatActivity() {
     private lateinit var loadService: LoadService<*>

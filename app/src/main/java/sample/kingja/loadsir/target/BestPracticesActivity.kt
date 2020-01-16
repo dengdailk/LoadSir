@@ -7,10 +7,11 @@ import kotlinx.android.synthetic.main.activity_best_practices.*
 import sample.kingja.loadsir.R
 
 /**
- * Description:TODO
- * Create Time:2017/9/29 13:54
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 class BestPracticesActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

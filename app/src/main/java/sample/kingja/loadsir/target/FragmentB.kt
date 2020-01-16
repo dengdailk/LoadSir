@@ -3,7 +3,6 @@ package sample.kingja.loadsir.target
 import android.annotation.SuppressLint
 import android.view.View
 import android.widget.Toast
-import kotlinx.android.synthetic.main.fragment_b_content.*
 import sample.kingja.loadsir.PostUtil.postCallbackDelayed
 import sample.kingja.loadsir.PostUtil.postSuccessDelayed
 import sample.kingja.loadsir.R
@@ -12,10 +11,11 @@ import sample.kingja.loadsir.callback.EmptyCallback
 import sample.kingja.loadsir.callback.LoadingCallback
 
 /**
- * Description:TODO
- * Create Time:2017/9/5 13:27
- * Author:KingJA
- * Email:kingjavip@gmail.com
+ * @author dengdai
+ * @date 2020/1/10.
+ * GitHub：
+ * email：291996307@qq.com
+ * description：
  */
 class FragmentB : BaseFragment() {
     override fun onCreateFragmentView(): Int {
